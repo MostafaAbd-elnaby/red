@@ -42,7 +42,7 @@
                     <p style="color: rgb(179, 230, 62)"> Coming Soon ...</p>
                 </div>
                 <a style="color: rgb(240, 113, 9)" href="mailto:info@redpyramidegypttours.com">Feel free to contact us 😊</a>
-
+                <p style="color: rgb(226, 216, 70)">Powerd By <strong style="color: rgb(226, 212, 10)">Mostafa &amp; Saad Khattab</strong></p>
             </div>
         </div>
     </body>
