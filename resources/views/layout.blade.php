@@ -64,7 +64,7 @@
     <script>
         $(window).on('load', function() {
         // Set a timeout to start the animation after one second
-        setTimeout(function() {
+        // setTimeout(function() {
             // Select the header element by its ID
             var header = $('#animate-from-top');
             var header2 = $('#animate-from-bottom');
@@ -74,7 +74,7 @@
             header.addClass('animate-header-top');
             header2.addClass('animate-header-top');
             p.addClass('animate-header-left');
-        }, 500); // 1000 milliseconds = 1 second
+        // }, 500); // 1000 milliseconds = 1 second
     });
         @stack('js_content')
     </script>
