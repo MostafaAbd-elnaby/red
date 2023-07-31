@@ -29,6 +29,7 @@
                        <li><i class="fa fa-whatsapp" aria-hidden="true"></i><a href="https://wa.link/sv6w3x" target="_blank">WhatsApp Us</a></li>
                        <li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:0201280801978">0128 080 1978</a></li>
                        <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@redpyramidegypttours.com" style="font-size: 16px;">info@redpyramidegypttours.com</a></li>
+                       <li><i class="fa fa-tripadvisor" aria-hidden="true"></i><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g294201-d21071945-Reviews-Red_Pyramid_Egypt_Tours-Cairo_Cairo_Governorate.html" style="font-size: 16px;">Tripadvisor</a></li>
                     </ul>
                  </div>
               </div>
